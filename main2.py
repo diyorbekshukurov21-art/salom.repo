@@ -1,1 +1,1 @@
-adsd
+print('salom')
